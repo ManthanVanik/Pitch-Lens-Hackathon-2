@@ -1,28 +1,3 @@
-﻿# ========== BACKEND ==========
-Backend/.env
-Backend/.env.*
-Backend/venv/
-Backend/__pycache__/
-Backend/*.db
-Backend/uploads/
-Backend/deploy.ps1
-Backend/Dockerfile
-
-# ========== FRONTEND ==========
-Frontend/node_modules/
-Frontend/.next/
-Frontend/.vercel/
-Frontend/.env.local
-
-# ========== IDE ==========
-.vscode/
-.idea/
-
-# ========== OS ==========
-.DS_Store
-Thumbs.db
-
-
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies

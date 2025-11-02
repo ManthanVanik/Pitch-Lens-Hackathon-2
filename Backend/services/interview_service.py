@@ -152,6 +152,8 @@ IMPORTANT RULES:
 - Very brief text (less than 30 characters) = SHALLOW
 - Generic statements without specifics = NEEDS_DETAIL
 - Zero or null values = MISSING
+- Ask specific questions 
+- Don't repeat same question.
 
 Return VALID JSON with this exact structure (no extra text):
 {{

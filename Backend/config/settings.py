@@ -10,8 +10,8 @@ class Settings(BaseSettings):
     # Brevo (formerly Sendinblue)
     BREVO_API_KEY: str
     FROM_EMAIL: str = "vanikmanthan@gmail.com"
-    BASE_URL: str = "https://your-domain.com"
-    FRONTEND_URL: str = "http://localhost:3000"
+    BASE_URL: str = "https://studio--studio-6714467766-8a879.us-central1.hosted.app"
+    FRONTEND_URL: str = "https://studio--studio-6714467766-8a879.us-central1.hosted.app"
     
     class Config:
         env_file = ".env"
