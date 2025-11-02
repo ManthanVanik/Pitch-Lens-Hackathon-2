@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn
+google-cloud-firestore
+google-cloud-storage
+google-cloud-documentai
+google-genai
+python-docx
+pydantic
+pydantic-settings
+python-multipart
+sendgrid
+email-validator
+sib-api-v3-sdk

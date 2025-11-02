@@ -1,0 +1,14 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "deals",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "interview.token",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

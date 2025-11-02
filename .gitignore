@@ -1,0 +1,23 @@
+﻿# ========== BACKEND ==========
+backend/.env
+backend/.env.*
+backend/venv/
+backend/__pycache__/
+backend/*.db
+backend/uploads/
+backend/deploy.ps1
+backend/Dockerfile
+
+# ========== FRONTEND ==========
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel/
+frontend/.env.local
+
+# ========== IDE ==========
+.vscode/
+.idea/
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
